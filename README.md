@@ -12,4 +12,4 @@ dependencies between the predictors and the outcome.
 
 Predictors are "age", "bmi", "gender", "hyp" for hypertention, the outcome is ("heart failure"). 
 The primary goal of these functions is to provide an easy way to create simulated datasets for testing 
-various classification and survival analysis prediction models. Please note, that all numbers and names are fictional and do not represent observed health dependencies. 
+various classification and survival analysis prediction models. Please note that all numbers and names are fictional and do not represent observed health dependencies. 
