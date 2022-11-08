@@ -4,9 +4,9 @@ The two files contain functions that simulate artificial samples with
 - 2 longitudinal output (binary output + observation time during which this output was observed)
 
 Each file contains three functions that generate samples with 
--- linear, 
--- non-linear or 
--- cross-term 
+* linear, 
+* non-linear or 
+* cross-term 
 
 dependencies between the predictors. 
 
